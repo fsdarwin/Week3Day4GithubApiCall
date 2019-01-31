@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GithubApiCall</string>
+    <string name="empty_string" />
+</resources>
